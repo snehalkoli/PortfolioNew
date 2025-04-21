@@ -6,7 +6,7 @@ import javascriptLogo from "./assets/tech_logo/javascript.png";
 import reactjsLogo from "./assets/tech_logo/reactjs.png";
 import shadcnLogo from "./assets/tech_logo/ShadCn.png";
 import antdesignLogo from "./assets/tech_logo/AntDesign.svg";
-import chakraLogo from "./assets/tech_logo/chakra.png";
+import chakraLogo from "./assets/tech_logo/Chakra.png"; // Ensure this file exists
 import reduxLogo from "./assets/tech_logo/redux.png";
 import nextjsLogo from "./assets/tech_logo/nextjs.png";
 import tailwindcssLogo from "./assets/tech_logo/tailwindcss.png";
@@ -40,8 +40,8 @@ import ritLogo from "./assets/education_logo/rit.jpg";
 import humacLogo from "./assets/work_logo/humac.png";
 import shivaLogo from "./assets/work_logo/shiva.png";
 import voterLogo from "./assets/work_logo/volor.png";
-import  calorLogo from "./assets/work_logo/calor.png";
-import  aldifestLogo from "./assets/work_logo/aldifest_2023.webp";
+import calorLogo from "./assets/work_logo/calor.png";
+import aldifestLogo from "./assets/work_logo/aldifest_2023.webp";
 import moviesLogo from "./assets/work_logo/moviesapp.png";
 import techNewsLogo from "./assets/work_logo/Tech_News.png";
 
