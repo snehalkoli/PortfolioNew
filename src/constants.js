@@ -184,7 +184,7 @@ export const education = [
     img: ritLogo,
     school: "Rajarambapu Institute of Technology, Rajaramnagar",
     date: "Aug 2018 - July 2022",
-    grade: "7.81 CGPA",
+    grade: "6.9 CGPA (First Class)",
     desc: "I completed my B.Tech in Information Technology from Rajarambapu Institute of Technology, Rajaramnagar (Aug 2018 – July 2022). During this time, I built a solid foundation in core computer science subjects such as Data Structures, Algorithms, Operating Systems, Computer Networks, Web Technologies, and Software Engineering. I gained hands-on experience through academic projects, coding assignments, and collaborative team activities. Additionally, I actively participated in technical workshops, coding competitions, and seminars, which helped enhance my practical skills and broaden my understanding of real-world software development practices.",
     degree: "Bachelor of Technology - B.Tech (Information Technology)",
   },
