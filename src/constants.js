@@ -276,7 +276,7 @@ export const projects = [
       "The official website for Webverse Digital, a creative digital marketing agency. Built using HTML, CSS, and JavaScript, it features visually appealing animations and a clean design to showcase the agency's services.",
     image: webverLogo,
     tags: ["HTML", "CSS", "JavaScript", "Framer Motion"],
-    github: "https://github.com/codingmastr/Webverse-Digital",
+    github: "#",
     webapp: "https://webversedigital.com/",
   },
   {
